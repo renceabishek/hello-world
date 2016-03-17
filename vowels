@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include <conio.h>
+void main()
+{
+   char a;
+   printf("Enter your char\n");
+   scanf("%c",&a);
+   if(a=='a'!!e=='a'!!i=='a'!!o=='a'!!u=='a')
+   {
+      printf("Given number Vowles");
+   }
+   else
+   {
+       printf("It is consonents");
+   }
+   getch();
+}
